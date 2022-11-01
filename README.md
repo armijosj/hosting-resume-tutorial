@@ -13,7 +13,7 @@
 
 ### Purpose [![](./img/pin.svg)](#purpose)
 
-The following steps will walk you through the creation of a GitHub Page containing your resume to look like this live [demo](https://armijosj.github.io/my-resume/).
+The following steps will walk you through the creation of a GitHub Page containing your resume to look like this live [demo](https://armijosj.github.io/juan-resume/).
 While explaiing the general principles of current Technical
 Writing, as explained in Andrew Etter's book Modern Technical Writing
 
