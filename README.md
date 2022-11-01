@@ -1,6 +1,6 @@
 # How to host a resume on Github
 
-## Table of contents[![](./pin.svg)](#table-of-contents)
+## Table of contents[![](./img/pin.svg)](#table-of-contents)
 1. [Purpose](#purpose)
 2. [Prerequisites](#prerequisites)
     - [Lightweight Markup Language](#lightweight-markup-language)
@@ -87,7 +87,7 @@ Make sure you have a [Github](https://github.com/) account. If you don't have on
 
 1. At the main page of your repository, click on "**Settings**". This is located on the toolbar under the repository's name. 
 
-    ![How to publish to pages](./img/publish%20to%20pages.gif)
+    ![How to publish to pages](./img/publish-to-pages.gif)
 
 2. Scroll down to the section called "**GitHub Pages**".
 3. GitHub Pages is disabled by default. To enable, click on the dropdown menu under "**Source**" and choose the "**main**" branch.
