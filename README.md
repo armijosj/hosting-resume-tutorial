@@ -181,11 +181,11 @@ We gratefully acknowledge support from:
 #### Author
 - [Juan Armijos](https://github.com/armijosj)  
 #### Group Members/Peer Editors
-- 
--
--
+- Wen, Chu Hao
+- Sood, Tanish
+- Patel, Khush Bhrugesh
 #### Template Author
-- [Steve Smith](https://github.com/orderedlist) 
+- [To do](https://github.com) 
 
 ---
 
