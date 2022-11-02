@@ -59,6 +59,7 @@ Make sure you have a [Github](https://github.com/) account. If you don't have on
 
     ![How to publish to pages](./img/publish-to-pages.gif)
 
+---
 
 ### Create _config.yml file (if not created automatically)
 1. Go to the main page of your repository. 
@@ -66,6 +67,7 @@ Make sure you have a [Github](https://github.com/) account. If you don't have on
 3. Set the name of the file as: ```_config.yml```
 
     ![Creating a _config.yml file](./img/create-config-yml.gif)
+
 4. To finalise or commit these changes, navigate to the **Commit Changes** section. Adding a description is optional.
 5. Click on "**Commit Changes**".
 --- 
@@ -87,27 +89,21 @@ Make sure you have a [Github](https://github.com/) account. If you don't have on
 
 ### Choosing a Jekyll Theme for Your GitHub Page
 
-
 1. Ensure that GitHub Pages [is enabled](#Setting-Up-GitHub-Pages). 
-2. go to https://pages.github.com/themes/
-3. Copy the dd the following to your site’s _config.yml file:
+2. Navigate to [Jekyll themes](https://pages.github.com/themes/)
+3. Copy the name of the owner and the repository of the theme that you liked.
+4. Paste both names into your site’s _config.yml file as follows:
 
 ```
 remote_theme: owner/name
 ```
-4. Replacing owner and name with the repository’s owner and name.
+5. In the case of this tutorial, it would be **owner:** _pages-themes_, and **name:** _midnight@v0.2.0_
+
+    ![theme in config](./img/update-config-yml.png)
 
 ---
 
 ### Viewing your GitHub Page
-
-1. Your main GitHub page is ```https://<Your GitHub Username>.github.io/```. 
-    * If the repository name is your GitHub username, visiting the URL will let you view your GitHub Page.
-2. To view your resume, type ```https://<Your GitHub Username>.github.io/<repository-name>```. In the case of this tutorial, it would be ```https://armijosj.github.io/juan-resume/```.
-
----
-
-#### Viewing Your GitHub Page Through the Repository
 
 1. Navigate to the settings page of your repository.
 2. Scroll down to the section called "**GitHub Pages**".
