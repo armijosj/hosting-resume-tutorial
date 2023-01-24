@@ -4,7 +4,7 @@
 
 ### Purpose 
 
-The following document will walk you through how to host a resume on GitHub Pages using Markdown and Jekyll. Here is a [demo](https://armijosj.github.io/juan-resume/) of how it will look. Additionally, it will demonstrate and explain the fundamental ideas of Andrew Etter's book, "Modern Technical Writing."
+The following document will walk you through how to host a resume on GitHub Pages using Markdown and Jekyll. Here is a [demo](https://armijosj.github.io/juan-resume/) (currently not being hosted) of how it will look. Additionally, it will demonstrate and explain the fundamental ideas of Andrew Etter's book, "Modern Technical Writing."
 
 ---
 
